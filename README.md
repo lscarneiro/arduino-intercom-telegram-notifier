@@ -10,6 +10,6 @@ This project is a proof of concept, it was created with the intention to promote
 
 # How to setup
 
-Use [config-example.h](/intercom-hotifier/config-example.h) from the `intercom-notifier` folder as a template to create your own `config.h` file (on the same directory)
+Use [config-example.h](/intercom-notifier/config-example.h) from the `intercom-notifier` folder as a template to create your own `config.h` file (on the same directory)
 
 Fill it with your data, be happy!
