@@ -1,0 +1,7 @@
+#define WIFI_SSID "YOUR_WIFI_NAME"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+
+#define TELEGRAM_TOKEN "99999999:xxxxxxxxxxxxxxxx"
+#define TELEGRAM_USERID 123456789
+#define TELEGRAM_CONNECTED_MESSAGE "Intercom notifier online"
+#define TELEGRAM_TRIGGERED_MESSAGE "Intercom triggered!"
